@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       colors: {
         'greenleas' : '#1e1d2c',
-        'pur': '#8176ff'
+        'pur': '#8176ff',
+        'gr': '#202020'
       }
     },
   },
